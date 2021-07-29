@@ -1,0 +1,26 @@
+.black-bg{
+    background-color: #264653;
+    ;
+}
+.btn-color{
+   background-color: #E76F51;
+    border: none;
+    width: 150px;
+}
+.text-bg{
+ color: #E76F51;
+}
+.img-grayscale{
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+.img-grayscale:hover{
+    filter: grayscale(0%);
+}
+
+.fas{
+    color: #E76F51;
+}
+.far{
+    color: #E76F51;
+}
